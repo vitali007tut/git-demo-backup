@@ -7,10 +7,4 @@ All the worst in me
 22222222222
 222222222222
 
-<<<<<<< HEAD
-some new content WIP
-=======
-for tag only
-
-коммит с названием "finish my song".
->>>>>>> 7c1fd9cfe7b88ddbc36f6d56931090bba9317d0c
+коммит с названием "finish my song"
